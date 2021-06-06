@@ -7,9 +7,7 @@
 </head>
 <body>
     <div id="banner">
-    <h1>Portal Ogłoszeniowy</h1>
-    
-    
+      <h1>Portal Ogłoszeniowy</h1>       
     </div>
     <div id="panell">
     <h2>Kategorie ogłoszeń</h2>
@@ -22,36 +20,28 @@
        <tr>
            <th>Liczba ogłoszeń</th>
            <th>Cena ogłoszeń</th>
-           <th>Bonus</th>
-           
+           <th>Bonus</th>      
        </tr>
        <tr>
-            <th>1-10</th>
+           <th>1-10</th>
            <th>1PLN</th>
-           <th rowspan="3">Subskrypcja newslettera to upust 0.20 PLN na ogłoszenie</th>
-           
+           <th rowspan="3">Subskrypcja newslettera to upust 0.20 PLN na ogłoszenie</th>     
        </tr>
         <tr>
             <th>11-50</th>
-           <th>0,80 PLN</th>
-          
+           <th>0,80 PLN</th>  
         </tr>
-            
-      
-          <tr>
-            <th>51 i więcej</th>
-           <th>0,60 PLN</th>
-         
-        </tr>
-        </table>
-        
-    </ol>
-    
-    </div>
+           <tr>
+           <th>51 i więcej</th>
+           <th>0,60 PLN</th> 
+           </tr>
+        </table>   
+    </ol> 
+       </div>
     <div id="panelp">
     <h2>Ogłoszenia kategorii ksiązki</h2>
           
-           <?php
+    <?php
         
   $serwer = 'localhost';
   $login = 'root';
@@ -81,8 +71,6 @@
          mysqli_close($do_bazy);
        
         ?>
-        
-
     </div>
     <div id="stopka">
     <p>Portal ogłoszeniowy opracował: DANIEL</p>
