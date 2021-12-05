@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html lang="pl">
+    
 <head>
     <title>Portal ogloszeń</title>
     <meta charset="utf-8">
     <link rel="stylesheet" href="styl1.css">
 </head>
+    
 <body>
     <div id="banner">
       <h1>Portal Ogłoszeniowy</h1>       
@@ -74,6 +76,6 @@
     </div>
     <div id="stopka">
     <p>Portal ogłoszeniowy opracował: DANIEL</p>
-    </div>
+      </div>
     </body>
 </html>
