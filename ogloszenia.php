@@ -18,7 +18,7 @@
         <li>Muzyka</li>
         <li>Filmy</li>
         <img src="ksiazki.jpg" alt="Kupię / sprzedam książke">
-        <table>
+    <table>
        <tr>
            <th>Liczba ogłoszeń</th>
            <th>Cena ogłoszeń</th>
@@ -37,7 +37,7 @@
            <th>51 i więcej</th>
            <th>0,60 PLN</th> 
            </tr>
-        </table>   
+    </table>   
     </ol> 
        </div>
     <div id="panelp">
