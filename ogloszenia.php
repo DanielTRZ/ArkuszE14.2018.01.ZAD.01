@@ -7,7 +7,7 @@
 </head>
     
 <body>
-    <div id="banner">
+<div id="banner">
       <h1>Portal Ogłoszeniowy</h1>       
     </div>
     <div id="panell">
