@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="pl">
-    
 <head>
     <title>Portal ogloszeń</title>
     <meta charset="utf-8">
