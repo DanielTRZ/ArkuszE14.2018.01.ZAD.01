@@ -17,7 +17,7 @@
 <li>Muzyka</li>
 <li>Filmy</li>
 <img src="ksiazki.jpg" alt="Kupię / sprzedam książke">
-    <table>
+<table>
        <tr>
            <th>Liczba ogłoszeń</th>
            <th>Cena ogłoszeń</th>
