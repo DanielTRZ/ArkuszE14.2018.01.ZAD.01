@@ -22,7 +22,7 @@
 <th>Liczba ogłoszeń</th>
 <th>Cena ogłoszeń</th>
 <th>Bonus</th>      
-       </tr>
+</tr>
        <tr>
            <th>1-10</th>
            <th>1PLN</th>
