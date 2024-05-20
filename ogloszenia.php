@@ -12,7 +12,7 @@
 </div>
 <div id="panell">
 <h2>Kategorie ogłoszeń</h2>
-    <ol>
+<ol>
         <li>Kisążki</li>
         <li>Muzyka</li>
         <li>Filmy</li>
