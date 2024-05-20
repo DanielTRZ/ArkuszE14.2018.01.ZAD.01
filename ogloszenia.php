@@ -33,7 +33,7 @@
 <th>0,80 PLN</th>  
 </tr>
 <tr>
-           <th>51 i więcej</th>
+<th>51 i więcej</th>
            <th>0,60 PLN</th> 
            </tr>
     </table>   
