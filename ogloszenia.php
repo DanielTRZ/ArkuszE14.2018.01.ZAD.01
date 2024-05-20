@@ -2,7 +2,7 @@
 <html lang="pl">
 <head>
 <title>Portal ogloszeń</title>
-    <meta charset="utf-8">
+<meta charset="utf-8">
     <link rel="stylesheet" href="styl1.css">
 </head>
     
