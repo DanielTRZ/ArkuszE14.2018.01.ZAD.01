@@ -21,7 +21,7 @@
 <tr>
 <th>Liczba ogłoszeń</th>
 <th>Cena ogłoszeń</th>
-           <th>Bonus</th>      
+<th>Bonus</th>      
        </tr>
        <tr>
            <th>1-10</th>
