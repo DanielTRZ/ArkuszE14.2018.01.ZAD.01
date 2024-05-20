@@ -23,7 +23,7 @@
 <th>Cena ogłoszeń</th>
 <th>Bonus</th>      
 </tr>
-       <tr>
+<tr>
            <th>1-10</th>
            <th>1PLN</th>
            <th rowspan="3">Subskrypcja newslettera to upust 0.20 PLN na ogłoszenie</th>     
