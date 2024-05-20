@@ -9,7 +9,7 @@
 <body>
 <div id="banner">
 <h1>Portal Ogłoszeniowy</h1>       
-    </div>
+</div>
     <div id="panell">
     <h2>Kategorie ogłoszeń</h2>
     <ol>
