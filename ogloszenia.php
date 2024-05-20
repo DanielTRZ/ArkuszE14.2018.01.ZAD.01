@@ -13,7 +13,7 @@
 <div id="panell">
 <h2>Kategorie ogłoszeń</h2>
 <ol>
-        <li>Kisążki</li>
+<li>Kisążki</li>
         <li>Muzyka</li>
         <li>Filmy</li>
         <img src="ksiazki.jpg" alt="Kupię / sprzedam książke">
