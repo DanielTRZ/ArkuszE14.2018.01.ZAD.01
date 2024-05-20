@@ -20,7 +20,7 @@
 <table>
 <tr>
 <th>Liczba ogłoszeń</th>
-           <th>Cena ogłoszeń</th>
+<th>Cena ogłoszeń</th>
            <th>Bonus</th>      
        </tr>
        <tr>
