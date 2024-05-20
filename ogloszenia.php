@@ -8,7 +8,7 @@
     
 <body>
 <div id="banner">
-      <h1>Portal Ogłoszeniowy</h1>       
+<h1>Portal Ogłoszeniowy</h1>       
     </div>
     <div id="panell">
     <h2>Kategorie ogłoszeń</h2>
