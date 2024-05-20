@@ -29,7 +29,7 @@
 <th rowspan="3">Subskrypcja newslettera to upust 0.20 PLN na ogłoszenie</th>     
 </tr>
 <tr>
-            <th>11-50</th>
+<th>11-50</th>
            <th>0,80 PLN</th>  
         </tr>
            <tr>
