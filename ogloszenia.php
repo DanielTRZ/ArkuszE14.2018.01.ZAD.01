@@ -11,7 +11,7 @@
 <h1>Portal Ogłoszeniowy</h1>       
 </div>
 <div id="panell">
-    <h2>Kategorie ogłoszeń</h2>
+<h2>Kategorie ogłoszeń</h2>
     <ol>
         <li>Kisążki</li>
         <li>Muzyka</li>
