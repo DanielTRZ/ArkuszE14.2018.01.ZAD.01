@@ -38,7 +38,7 @@
 </tr>
 </table>   
 </ol> 
-       </div>
+</div>
     <div id="panelp">
     <h2>Ogłoszenia kategorii ksiązki</h2>
           
