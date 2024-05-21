@@ -74,6 +74,6 @@
 </div>
 <div id="stopka">
 <p>Portal ogłoszeniowy opracował: DANIEL</p>
-      </div>
+</div>
     </body>
 </html>
