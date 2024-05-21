@@ -40,7 +40,7 @@
 </ol> 
 </div>
 <div id="panelp">
-    <h2>Ogłoszenia kategorii ksiązki</h2>
+<h2>Ogłoszenia kategorii ksiązki</h2>
           
     <?php
         
