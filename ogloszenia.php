@@ -42,7 +42,7 @@
 <div id="panelp">
 <h2>Ogłoszenia kategorii ksiązki</h2>
           
-    <?php     
+<?php     
   $serwer = 'localhost';
   $login = 'root';
   $haslo = '';
