@@ -70,7 +70,7 @@
         }
          mysqli_close($do_bazy);
        
-        ?>
+?>
 </div>
 <div id="stopka">
 <p>Portal ogłoszeniowy opracował: DANIEL</p>
