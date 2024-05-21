@@ -37,7 +37,7 @@
 <th>0,60 PLN</th> 
 </tr>
 </table>   
-    </ol> 
+</ol> 
        </div>
     <div id="panelp">
     <h2>Ogłoszenia kategorii ksiązki</h2>
